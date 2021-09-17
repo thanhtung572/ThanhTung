@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Anh Tùng là tọe zời nhất ",
   text7: "Lí do tại sao em lại chọn anh vậy nè  ",
   text8: "Gửi đii nè ",
-  text9: "Vì em thấy anh quả là một người vui tính và hài hước  ",
+  text9: "Vì em thấy anh quả là một người vui tính và hài hước ^^^^^ ",
   text10: "U là trời , Anh biết mà ^^ Ngại quée",
   text11:
     "Link instagram sau nút okeee á",
