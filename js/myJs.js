@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì em thấy anh quả là một người vui tính và hài hước  ",
   text10: "U là trời , Anh biết mà ^^ Ngại quée",
   text11:
-    " Nãy giờ chọc vui thôi , chứ ko có ý đồ gì đâu ^^. Link instagram sau nút okeee á",
+    "Link instagram sau nút okeee á",
   text12: "Okeee lunn ",
 };
 
