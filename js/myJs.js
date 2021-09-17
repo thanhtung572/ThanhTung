@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Hè lu cậu!!!",
-  text2: "Cậu ơiii ! Tớ có điều muốn hỏi nè ",
-  text3: "Cậu lươn lẹo vói tớ phải khum ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là tự nhận mình dòng họ lươn nhaa :v",
-  text5: "Cậu mơ à???",
-  text6: "Đúng rồi .Mình rất lươnnnn ^^  ",
-  text7: "Lí do tại sao câu lại lươnnnn như vậy ",
-  text8: "Gửi cho tuii ",
-  text9: "Vì tớ đẹp trai chứ gì :vv ",
-  text10: "Tuii biết mà ^^ Ngại quée",
+  text1: "Hè lu Hân!!!",
+  text2: "Hân đã vào đây rồiiii thì nhấn ok đê",
+  text3: "Giữa anh và ly tà tua thì Hân sẽ chọn cái nào nè ^^ ,
+  text4: "Nếu em ko trả lời mà thoát ra tức là chọn anh ồi nhaa nhaa :v",
+  text5: "Ly tà tua là chân ái",
+  text6: "Anh Tùng là tọe zời nhất ",
+  text7: "Lí do tại sao em lại chọn anh vậy nè  ",
+  text8: "Gửi đii nè ",
+  text9: "Vì em thấy anh quả là một người vui tính và hài hước  ",
+  text10: "U là trời , Anh biết mà ^^ Ngại quée",
   text11:
-    "Nhớ là gửi ảnh mèo cho tui nha . Không đc quỵt nghe ._. ",
+    " Nãy giờ chọc vui thôi , chứ ko có ý đồ gì đâu ^^. Link instagram sau nút okeee á",
   text12: "Okeee lunn ",
 };
 
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://www.instagram.com/thanhtung572vn/";
           },
         });
       }
